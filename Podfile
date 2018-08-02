@@ -7,6 +7,9 @@ target 'iNDS' do
 
   # Pods for iNDS
   pod 'ObjectiveDropboxOfficial'
+  pod 'SCLAlertView-Objective-C', '~> 1.1'
   pod 'UnrarKit', '~> 2.6'
   pod 'MHWDirectoryWatcher', :git => 'https://github.com/hwaxxer/MHWDirectoryWatcher.git', :tag => '0.0.8'
+  pod 'SDWebImage', '~> 4.0'
+  pod 'FileMD5Hash', '~> 2.0'
 end
